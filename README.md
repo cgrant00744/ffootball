@@ -1,2 +1,2 @@
 # ffootball
-Projectvto start scraping data from Fantasy football sites
+Project to start scraping data from Fantasy football sites
